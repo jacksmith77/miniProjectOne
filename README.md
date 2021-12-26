@@ -1,0 +1,2 @@
+# miniProjectOne
+First Git project
